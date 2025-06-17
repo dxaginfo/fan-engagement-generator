@@ -1,0 +1,242 @@
+[
+  {
+    "id": "idea1",
+    "title": "Virtual Meet & Greet",
+    "category": "Digital Experience",
+    "description": "Host a virtual meet and greet with team players or brand ambassadors",
+    "implementation": "Use video conferencing tools to host scheduled sessions where fans can interact with players or brand representatives",
+    "benefits": [
+      "Direct fan interaction",
+      "Minimal cost",
+      "Strengthens loyalty",
+      "Accessible to global fanbase"
+    ],
+    "complexity": "low",
+    "budgetRange": "medium",
+    "audienceTypes": ["fans", "followers", "customers"],
+    "example": "The LA Lakers hosted a series of virtual meet and greets during the pandemic, allowing fans to ask questions and get personalized responses from players",
+    "timeToImplement": "1-2 weeks",
+    "requiredResources": [
+      "Video conferencing platform",
+      "Team member/ambassador availability",
+      "Promotional campaign",
+      "Moderator"
+    ]
+  },
+  {
+    "id": "idea2",
+    "title": "User-Generated Content Contest",
+    "category": "Social Media",
+    "description": "Run a contest where fans submit content related to your brand/team",
+    "implementation": "Create a branded hashtag, promote across social channels, and select winners for prizes",
+    "benefits": [
+      "Increases engagement",
+      "Creates authentic content",
+      "Builds community",
+      "Extends organic reach"
+    ],
+    "complexity": "low",
+    "budgetRange": "low",
+    "audienceTypes": ["fans", "social media followers"],
+    "example": "Nike's #JustDoIt campaign encourages users to share their athletic achievements, generating millions of authentic content pieces",
+    "timeToImplement": "2-3 weeks",
+    "requiredResources": [
+      "Social media channels",
+      "Contest rules/terms",
+      "Prizes",
+      "Content curation team"
+    ]
+  },
+  {
+    "id": "idea3",
+    "title": "AR Team Photo Experience",
+    "category": "Augmented Reality",
+    "description": "Create an AR filter that lets fans take virtual photos with the team",
+    "implementation": "Develop a custom AR filter for Instagram/Snapchat/TikTok that places users in team photos",
+    "benefits": [
+      "Innovative experience",
+      "Shareable content",
+      "Appeals to younger audience",
+      "High viral potential"
+    ],
+    "complexity": "high",
+    "budgetRange": "high",
+    "audienceTypes": ["tech-savvy fans", "younger audience"],
+    "example": "The NBA created an AR experience that allowed fans to virtually stand next to life-sized NBA players",
+    "timeToImplement": "1-2 months",
+    "requiredResources": [
+      "AR developer",
+      "3D assets of team members",
+      "Social media integration",
+      "Promotion strategy"
+    ]
+  },
+  {
+    "id": "idea4",
+    "title": "Community Charity Event",
+    "category": "In-Person Event",
+    "description": "Organize an event where fans and team members collaborate on a charity project",
+    "implementation": "Partner with a local charity, create volunteer opportunities for fans alongside team members",
+    "benefits": [
+      "Positive brand image",
+      "Community connection",
+      "Meaningful fan interaction",
+      "Media coverage potential"
+    ],
+    "complexity": "medium",
+    "budgetRange": "medium",
+    "audienceTypes": ["local fans", "community members"],
+    "example": "The Seattle Seahawks regularly host community cleanup events where players and fans work together to beautify local neighborhoods",
+    "timeToImplement": "1-2 months",
+    "requiredResources": [
+      "Charity partner",
+      "Event logistics team",
+      "Team member participation",
+      "Safety/liability considerations"
+    ]
+  },
+  {
+    "id": "idea5",
+    "title": "Exclusive Content Subscription",
+    "category": "Content",
+    "description": "Create a premium content tier with behind-the-scenes footage, interviews, etc.",
+    "implementation": "Develop a content plan, set up a subscription platform, and produce exclusive content",
+    "benefits": [
+      "Revenue generation",
+      "Deepens fan connection",
+      "Exclusivity",
+      "Recurring engagement"
+    ],
+    "complexity": "medium",
+    "budgetRange": "medium",
+    "audienceTypes": ["die-hard fans", "content consumers"],
+    "example": "Manchester United's MUTV offers subscribers exclusive interviews, full match replays, and behind-the-scenes content",
+    "timeToImplement": "2-3 months",
+    "requiredResources": [
+      "Content production team",
+      "Subscription platform",
+      "Marketing strategy",
+      "Content calendar"
+    ]
+  },
+  {
+    "id": "idea6",
+    "title": "Fan Strategy Summit",
+    "category": "Interactive Event",
+    "description": "Host a fantasy sports-style event where fans suggest plays/strategies",
+    "implementation": "Create a structured format where fans can present strategy ideas to coaches or analysts",
+    "benefits": [
+      "Deep engagement",
+      "Educational value",
+      "Respects fan knowledge",
+      "Creates unique content"
+    ],
+    "complexity": "medium",
+    "budgetRange": "medium",
+    "audienceTypes": ["engaged fans", "strategy-focused audience"],
+    "example": "The Dallas Mavericks hosted a fan strategy session where selected fans presented play ideas to assistant coaches",
+    "timeToImplement": "1-2 months",
+    "requiredResources": [
+      "Venue",
+      "Coach/analyst participation",
+      "Selection process",
+      "Event facilitator"
+    ]
+  },
+  {
+    "id": "idea7",
+    "title": "Custom Merchandise Creator",
+    "category": "E-commerce",
+    "description": "Online tool allowing fans to customize team merchandise",
+    "implementation": "Develop a customization platform and set up production logistics",
+    "benefits": [
+      "Personalization",
+      "Higher merchandise sales",
+      "Enhanced fan identity",
+      "Unique products"
+    ],
+    "complexity": "high",
+    "budgetRange": "high",
+    "audienceTypes": ["merchandise buyers", "fashion-conscious fans"],
+    "example": "The New York Yankees offer a custom jersey creator that allows fans to add their name and choose numbers",
+    "timeToImplement": "3-6 months",
+    "requiredResources": [
+      "E-commerce platform",
+      "Product customization technology",
+      "Inventory management",
+      "Fulfillment process"
+    ]
+  },
+  {
+    "id": "idea8",
+    "title": "Virtual Watch Party",
+    "category": "Digital Experience",
+    "description": "Hosted online event where fans watch games together with commentary",
+    "implementation": "Set up a streaming platform with chat functionality and host live commentary",
+    "benefits": [
+      "Connects remote fans",
+      "Creates shared experience",
+      "Low-cost implementation",
+      "Builds community"
+    ],
+    "complexity": "low",
+    "budgetRange": "low",
+    "audienceTypes": ["remote fans", "social viewers"],
+    "example": "The Golden State Warriors hosted virtual watch parties during away games, featuring former players providing commentary",
+    "timeToImplement": "2-4 weeks",
+    "requiredResources": [
+      "Streaming platform",
+      "Commentators",
+      "Content rights clearance",
+      "Moderator team"
+    ]
+  },
+  {
+    "id": "idea9",
+    "title": "Fan Appreciation Wall",
+    "category": "Community Building",
+    "description": "Physical or digital wall featuring fan photos, stories, and testimonials",
+    "implementation": "Create a submission process, curate content, and design the display",
+    "benefits": [
+      "Fan recognition",
+      "Emotional connection",
+      "Showcases fan loyalty",
+      "Creates aspirational content"
+    ],
+    "complexity": "low",
+    "budgetRange": "low",
+    "audienceTypes": ["all fans", "long-time supporters"],
+    "example": "The Green Bay Packers Hall of Fame features a digital wall of fan stories spanning generations of supporters",
+    "timeToImplement": "1-2 months",
+    "requiredResources": [
+      "Submission platform",
+      "Content curation team",
+      "Display space (physical or digital)",
+      "Privacy compliance process"
+    ]
+  },
+  {
+    "id": "idea10",
+    "title": "Interactive Mobile Game",
+    "category": "Gaming",
+    "description": "Branded mobile game that incorporates team elements and players",
+    "implementation": "Develop a game (in-house or outsourced) and distribute via app stores",
+    "benefits": [
+      "Ongoing engagement",
+      "Appeals to younger audience",
+      "Potential revenue",
+      "Brand reinforcement"
+    ],
+    "complexity": "high",
+    "budgetRange": "high",
+    "audienceTypes": ["younger fans", "gamers"],
+    "example": "The NFL created the Madden mobile game, allowing fans to manage teams featuring their favorite players",
+    "timeToImplement": "6-12 months",
+    "requiredResources": [
+      "Game development team",
+      "Player/team likeness rights",
+      "QA testing",
+      "App store publishing process"
+    ]
+  }
+]
